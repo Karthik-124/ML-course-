@@ -17,4 +17,10 @@ env/
 .DS_Store
 Thumbs.db
 
+# Non-CSV raw data files
+*.data
+*.names
+*.DOCUMENTATION
+
+
 
